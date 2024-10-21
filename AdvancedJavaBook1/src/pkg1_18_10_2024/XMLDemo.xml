@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE books SYSTEM "Book.dtd">
+<books>
+	<book>
+		<bookname>Core Java</bookname>
+		<author>N.Rao</author>
+		<price>700</price>
+		<publication>dreamtech</publication>
+	</book>
+</books> 
